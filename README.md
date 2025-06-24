@@ -68,7 +68,7 @@ javadoc -d doc *.java
 
 ## Author
 
-Danny Regan
-Merrimack College
-CSC 6301 Software Design & Documentation
+Danny Regan  
+Merrimack College  
+CSC 6301 Software Design & Documentation  
 Professor Gautham Krishnamurthy
